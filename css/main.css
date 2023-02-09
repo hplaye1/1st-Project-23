@@ -1,1 +1,6 @@
-/* Place CSS styles here */
+body {
+    background-color: RGB(209, 200, 255);
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Poppins', sans-serif;
+  }
+ 
