@@ -3,4 +3,9 @@ body {
     font-family: 'Abril Fatface', cursive;
     font-family: 'Poppins', sans-serif;
   }
+
+  h1 {
+    font-family: 'Abril Fatface', cursive; 
+    color: RGB(37, 31, 84)
+  }
  
